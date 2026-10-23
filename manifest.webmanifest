@@ -1,0 +1,14 @@
+{
+  "name": "PIXEL FORGE — Pixel Art Workbench",
+  "short_name": "PIXEL FORGE",
+  "description": "ドットでつくる、あなただけの世界",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10151d",
+  "theme_color": "#10151d",
+  "icons": [
+    { "src": "assets/pixel-forge-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
